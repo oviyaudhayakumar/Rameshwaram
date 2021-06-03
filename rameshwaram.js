@@ -5,7 +5,7 @@ const questions = [
         optionB: "Rameswaram",
         optionC: "Madurai",
         optionD: "None of the above",
-        correctOption: " optionB"
+        correctOption: "optionB"
     },
 
     {
@@ -50,7 +50,7 @@ const questions = [
         optionB: "Vaishnavites",
         optionC: "Smarthas",
         optionD: "All the above",
-        correctOption: " optionD "
+        correctOption: "optionD "
     },
 
     {
