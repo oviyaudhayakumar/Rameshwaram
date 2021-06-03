@@ -81,7 +81,7 @@ const questions = [
     },
 
     {
-        question: `"The town was destroyed during the year __ Rameswaram cyclone and remains uninhabited in the aftermath."`,
+        question: "The town was destroyed during the year __ Rameswaram cyclone and remains uninhabited in the aftermath.",
         optionA:"1965",
         optionB: "1966",
         optionC: "1963",
