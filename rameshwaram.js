@@ -54,7 +54,7 @@ const questions = [
     },
 
     {
-        question 7: "The presiding deity, the Lingam of Ramanathaswamy (Shiva), was established and worshiped by __ before crossing his bridge to Lanka.",
+        question: "The presiding deity, the Lingam of Ramanathaswamy (Shiva), was established and worshiped by __ before crossing his bridge to Lanka.",
         optionA: "Shiva",
         optionB: "Rama",
         optionC: "Both A & B",
