@@ -50,7 +50,7 @@ const questions = [
         optionB: "Vaishnavites",
         optionC: "Smarthas",
         optionD: "All the above",
-        correctOption: "optionD "
+        correctOption: "optionD"
     },
 
     {
